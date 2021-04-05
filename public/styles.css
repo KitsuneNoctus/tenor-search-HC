@@ -6,12 +6,12 @@
     line-height: 1.5;
   }
 
-  h1 {
+h1 {
     text-align: center;
-  }
+}
 
 
-  input {
+input {
     padding: .5em .6em;
     display: inline-block;
     border: 1px solid #ccc;
@@ -20,13 +20,13 @@
     vertical-align: middle;
     box-sizing: border-box;
     width:300px;
-  }
+}
 
-  form {
+form {
     margin-bottom:10px;
-  }
+}
 
-  button {
+button {
     height: 31px;
     width: 110px;
     text-align: center;
@@ -42,4 +42,4 @@
     outline: none;
     border: 1px solid #FE7880;
     color: #FE7880;
-  }
+}
